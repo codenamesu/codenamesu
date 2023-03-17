@@ -1,5 +1,9 @@
-### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=random&height=300&section=header&text=깃허브%20조민수&fontSize=90)
+### 개발자가 목표인 사람
+[![*'s githubstats](https://github-readme-stats.vercel.app/api?username=codenamesu&show_icons=true&theme=dark)](https://github.com/codenamesu)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamesu)](https://github.com/codenamesu/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamesu&layout=compact)](https://github.com/codenamesu/github-readme-stats)
 <!--
 **codenamesu/codenamesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
